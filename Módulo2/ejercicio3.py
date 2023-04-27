@@ -7,7 +7,6 @@ Created on Thu Apr 13 20:22:58 2023
 
 # Ejercicio 3
 for i in range(0, 1001, 2):
-
     if i == 0:
         a = None
     else:
